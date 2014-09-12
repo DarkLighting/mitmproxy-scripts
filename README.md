@@ -8,7 +8,7 @@ mitmproxy-scripts
 <br>
 
 <h4>Scripts list</h4>
-*Obs: all scripts will write their outputs inside your current work folder (the one you were at when the mitmproxy tool was called), unless specified otherwise in this explanation.
+*Obs: all scripts will write their outputs inside your current work folder (the one you were at when the mitmproxy tool was called), unless specified otherwise in this explanation.*
 <br>
 <dl>
 <dt>dump_headers.py
