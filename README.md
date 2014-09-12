@@ -5,6 +5,8 @@ mitmproxy-scripts
 <br>
 https://github.com/mitmproxy
 
+Features requests/issues are welcome!
+
 
 <h4>Scripts list</h4>
 <dl>
