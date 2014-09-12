@@ -8,10 +8,12 @@ mitmproxy-scripts
 <br>
 
 <h4>Scripts list</h4>
+*Obs: all scripts will write their outputs inside your current work folder, the one you where when the mitmproxy tool was called, unless specified otherwise in this explanation.
+<br>
 <dl>
 <dt>dump_headers.py
 </dt>
-<dd>Dumps the flow headers (with their respective values) inside the file "headers", written in your current work folder (the one you where when the mitmproxy tool was called).
+<dd>Dumps the flow headers (with their respective values) inside the file "headers".
 </dd>
 <dt>dump_content.py
 </dt>
