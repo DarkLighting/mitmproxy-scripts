@@ -1,4 +1,4 @@
-mitmproxy-plugins
+mitmproxy-scripts
 =================
 
-Unnoficial plugins developed for use with the mitmproxy project <https://github.com/mitmproxy>
+<strong>Unnoficial</strong> scripts developed for use with the mitmproxy project <https://github.com/mitmproxy>
