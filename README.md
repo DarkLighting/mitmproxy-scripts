@@ -1,4 +1,4 @@
 mitmproxy-plugins
 =================
 
-Unnoficial plugins developed for the mitmproxy project
+Unnoficial plugins developed for use with the mitmproxy project
