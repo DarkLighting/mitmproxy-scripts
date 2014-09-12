@@ -16,8 +16,8 @@ Features requests/issues are welcome!
 <dt>dump_content.py
 </dt>
 <dd>Dumps the flow content in a file. It will create a directory called "content" and a subdirectorie for the content-type. Inside this folder it will put the content retrieved, in a file named after it's *sha1* hash and a part of the content-type.
-```
-Lets say you made a request and it returned a gif image. It's content-type will be "image/gif". As you will see, the image will inside the directory "content/image_gif/$sha1oftheimage_gif".
-```
+<br><br>
+Lets say you made a request and it returned a gif image. It's content-type will be "image/gif". As you will see, the image will inside the directory <i>"content/image_gif/$sha1oftheimage_gif"</i>.
+
 </dd>
 </dl>
