@@ -4,7 +4,7 @@ mitmproxy-scripts
 **Unofficial** scripts developed for use with the [mitmproxy](https://github.com/mitmproxy) project.
 <br><br>
 
-<h5>Features requests/issues are welcome!</h5>
+<h5>Feature requests/issues are welcome!</h5>
 <br>
 
 <h4>Scripts list</h4>
